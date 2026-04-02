@@ -1,4 +1,6 @@
 """
+https://leetcode.cn/problems/sqrtx/description/
+
 69. x 的平方根 
 已解答
 简单
